@@ -9,7 +9,7 @@ class Car():
         print(f"A car is created: model = {model}, year={year}")
 
 
-
+# Create an instance
 #mycar = Car("Tesl", 2019)
 
 
